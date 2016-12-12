@@ -1,0 +1,86 @@
+body {
+  background-color:  rgb(244, 248, 249);
+}
+a {
+  text-decoration: none;
+}
+.tweet {
+  width: 490px;
+  height: 120px;
+  background-color:  rgb(255, 255, 255);
+  font-family: helvetica;
+  border: 1px rgb(225, 232, 237);
+  border-radius: 5px;
+  padding: 16px;
+}
+.profile-pic img {
+  width: 40px;
+  height: 40px;
+  float: left;
+}
+#account-logo {
+  width: 7px;
+  height: 15px;
+  padding-left: 10px;
+}
+#username {
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+}
+#validated-account {
+  width: 16px;
+  height: 16px;
+}
+#at-account {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(104, 109, 129);
+  padding-left: 10px;
+}
+.follow {
+  border: 20px rgb(85, 172, 238);
+  float: right;
+  text-align: right;
+}
+#follow-icon {
+  width: 14px;
+  height: 14px;
+}
+#follow-text {
+  color: #00aced;
+  font-weight: bold;
+}
+.tweet-content p {
+  color: rgb(0, 0, 0);
+  clear: both;
+}
+.date-and-time p {
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(101, 116, 127);
+  line-height: 0px;
+}
+.reactions {
+  padding-top: 5px;
+}
+.reactions span {
+  width: 18px;
+  height: 12px;
+  font-size: 14px;
+  font-weight: bold;
+  color: rgb(105, 120, 130);
+}
+#reply-icon {
+  width: 18px;
+  height: 12px;
+}
+#retweet-icon {
+  width: 18px;
+  height: 12px;
+  padding-left: 16px;
+}
+#favorite-icon {
+  width: 12px;
+  height: 12px;
+  padding-left: 16px;
+}
