@@ -39,11 +39,11 @@ a {
 }
 .follow {
   position: relative;
-  left: 240px;
+  left: 252px;
   top: -5px;
-  border: solid 2px rgb(85, 172, 238);
-  border-radius: 5px;
-  padding: 10px 20px 10px 20px;
+  border: solid 1px #00aced;
+  border-radius: 4px;
+  padding: 8px 12px 8px 12px;
 }
 #follow-icon {
   width: 14px;
